@@ -1,5 +1,5 @@
 # Magmatic-Fertility-Discrimination-in-Tibet
-There is the Supplementary Material for the article, which is cited as "Peng Zhang, Zhenjie Zhang, Yuanzhi Zhou, Molei Zhao, Qiuming Cheng (2025) Geochemical Controls on Magmatic Fertility in the Tibetan Plateau: Insights from Machine Learning Models across Collision and Subduction Regimes. ~". 
+There is the Supplementary Material for the article, which is cited as "Peng Zhang, Zhenjie Zhang, Yuanzhi Zhou, Jie Yang, Molei Zhao, Qiuming Cheng (2025) Geochemical Controls on Magmatic Fertility in the Tibetan Plateau: Insights from Machine Learning Models across Collision and Subduction Regimes. ~". 
 
 Detailed descriptions are as follows: 
 Supplementary table S1 All the whole-rock raw data used to construct the magma fertility discrimination model in this paper; 
